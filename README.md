@@ -1,5 +1,5 @@
 # pythonCurso
-Curso de Python en DXC (Ejercicios y prácticas)
+# Curso de Python en DXC (Ejercicios y prácticas)
 
 Week 1:
     -Sintaxis básica
