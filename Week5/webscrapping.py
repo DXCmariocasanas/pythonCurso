@@ -2,6 +2,8 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 import csv
+import os
+os.system("cls" if os.name == "nt" else "clear")
 
 # =========================================
 # WEB SCRAPING EXAMPLE WITH PYTHON

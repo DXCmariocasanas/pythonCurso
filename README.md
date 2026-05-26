@@ -1,6 +1,15 @@
 # pythonCurso
 # Curso de Python en DXC (Ejercicios y prácticas)
 
+Para correr la funcion de los paises le debn instalar los siguientes paquetes a python:
+python -m pip install fastapi uvicorn requests jinja2
+ 
+Luego correr esta instruccion en el folder donde tienen el codigo con main.py 
+
+![captura](Comando.png)
+
+INDICE
+
 Week 1:
     -Sintaxis básica
 Week 2:
