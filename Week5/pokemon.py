@@ -1,8 +1,11 @@
 import requests
 import sqlite3
 import urllib3
+import os
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+os.system("cls" if os.name == "nt" else "clear")
 
 # -----------------------------
 # DATABASE SETUP
@@ -99,7 +102,7 @@ def show_pokemon(data):
         stat_name = stat["stat"]["name"]
         stat_value = stat["base_stat"]
 
-        print(f"{stat_name}: {stat_value}")
+        print(f"- {stat_name}: {stat_value}")
 
     print("\nSprite Image:")
 
