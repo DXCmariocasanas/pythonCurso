@@ -10,7 +10,7 @@ Luego correr esta instruccion en el folder donde tienen el codigo con main.py
 
 y deben de terminar con algo asi en el browser si todo funciona bien, luego le pueden poner diferentes nombres en los paises y les debe dar la informacion de cada pais
 
-![Busqueda Paises](paises.png)
+![Busqueda Paises](Paises.png)
 
 INDICE
 
