@@ -1,0 +1,5 @@
+.venv
+.env
+book_prices.csv
+news_titles.csv
+pokemon.db
